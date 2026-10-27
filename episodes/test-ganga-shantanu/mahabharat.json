@@ -4,5 +4,6 @@
   "hindi": "महाभारत",
   "cast": ["shantanu", "ganga", "horse"],
   "sets": ["ganga-tat"],
-  "narrator": "baritone"
+  "narrator": "baritone",
+  "look": "shadow"
 }
