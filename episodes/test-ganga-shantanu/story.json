@@ -1,0 +1,367 @@
+{
+  "id": "mahabharat-ganga-shantanu-test",
+  "title": "गंगा का वचन",
+  "series": "mahabharat",
+  "kind": "tale",
+  "narrator": "baritone",
+  "beats": [
+    {
+      "id": "b001",
+      "text": "हस्तिनापुर के राजा शांतनु ने, एक ऐसी स्त्री से विवाह किया, जिसके बारे में वो कुछ भी नहीं जानते थे। न उसका नाम, न उसका घर।",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          }
+        ],
+        "props": []
+      },
+      "pause_after": 0.4
+    },
+    {
+      "id": "b002",
+      "text": "एक दिन, हिरणों का पीछा करते-करते, राजा शांतनु गंगा नदी के किनारे आ पहुँचे।",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "move": "pan-right"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": -0.08,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "walk",
+            "expr": "neutral",
+            "toX": 0.32,
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b003",
+      "text": "वहाँ तट पर, एक अद्भुत सुंदर स्त्री खड़ी थी। उसका रूप ऐसा था, मानो नदी की धूप ने देह धर ली हो।",
+      "emotion": "surprise",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.68,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b004",
+      "text": "राजा उसे देखते ही रह गए। वो आगे बढ़े, और बोले,",
+      "emotion": "surprise",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.32,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "surprised",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b005",
+      "text": "हे सुंदरी, तुम कौन हो? मैं कुरुवंश का राजा शांतनु, तुम्हें अपनी रानी बनाना चाहता हूँ।",
+      "emotion": "happy",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.32,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "offer",
+            "expr": "smile",
+            "key": "shantanu",
+            "speaks": true
+          }
+        ],
+        "props": []
+      },
+      "voice": "kathavachak",
+      "speaker": "shantanu",
+      "delivery": "a smitten king, gentle and earnest"
+    },
+    {
+      "id": "b006",
+      "text": "वो स्त्री मुस्कुराई। फिर उसने एक शर्त रखी।",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.3,
+          "x": 0.5,
+          "y": 0.55,
+          "move": "hold"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "talk",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "pause_after": 0.4
+    },
+    {
+      "id": "b007",
+      "text": "मैं आपकी रानी बनूँगी, राजन। पर मैं जो भी करूँ, अच्छा या बुरा, आप मुझे कभी रोकेंगे नहीं।",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.68,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "neutral",
+            "pose": "talk",
+            "key": "ganga",
+            "speaks": true
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "voice": "deep-female",
+      "speaker": "ganga",
+      "delivery": "a serene divine woman, calm and grave"
+    },
+    {
+      "id": "b008",
+      "text": "और न ही कभी, मुझसे कोई कठोर वचन कहेंगे। जिस दिन ऐसा हुआ, उसी दिन मैं आपको छोड़कर चली जाऊँगी।",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.68,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "thinking",
+            "pose": "point",
+            "key": "ganga",
+            "speaks": true
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "voice": "deep-female",
+      "speaker": "ganga",
+      "delivery": "a serene divine woman, quietly warning"
+    },
+    {
+      "id": "b009",
+      "text": "राजा शांतनु प्रेम में डूबे थे। उन्होंने बिना एक पल सोचे, वचन दे दिया।",
+      "emotion": "happy",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.3,
+          "x": 0.5,
+          "y": 0.55,
+          "move": "hold"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "bow",
+            "expr": "smile",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b010",
+      "text": "पर वो नहीं जानते थे, कि यही वचन, एक दिन उनसे, उनका सब कुछ माँग लेगा। और यहीं से शुरू होगी, भीष्म की कहानी।",
+      "emotion": "fear",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "sad",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "pause_after": 0.6
+    }
+  ]
+}
