@@ -1,0 +1,14 @@
+env-only darbar els=3509 filterRefs=2 clip=2
+env-only diwan els=1908 filterRefs=2 clip=0
+env-only bazaar els=3126 filterRefs=2 clip=91
+env-only charbagh els=6294 filterRefs=2 clip=145
+env-only courtyard els=2550 filterRefs=2 clip=168
+env-only haveli els=3045 filterRefs=2 clip=93
+darbar+1 king els=4710 filterRefs=59 clip=74
+darbar+1 tenali els=4422 filterRefs=53 clip=58
+darbar+1 courtier els=4406 filterRefs=47 clip=58
+darbar+1 akbar els=5086 filterRefs=59 clip=90
+darbar+1 birbal els=4408 filterRefs=51 clip=66
+darbar+1 guard els=4498 filterRefs=51 clip=62
+darbar+1 sipahi els=4478 filterRefs=49 clip=60
+darbar+1 horse els=4566 filterRefs=49 clip=66

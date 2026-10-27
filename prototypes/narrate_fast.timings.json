@@ -1,0 +1,27 @@
+{
+ "config": {
+  "story": "tenali-death-by-old-age",
+  "out": "fast89",
+  "asr": "cuda",
+  "retry": "off",
+  "empty_cache": "off",
+  "beats": 0
+ },
+ "beats": 89,
+ "takes": 102,
+ "flagged": 0,
+ "audio_generated_s": 599.7,
+ "final_audio_s": 520.8,
+ "peak_vram_gb": 7.77,
+ "seconds": {
+  "wait_lock": 0.0,
+  "load_tts": 32.8,
+  "load_asr": 1.7,
+  "generate": 485.7,
+  "measure_pyin": 10.6,
+  "asr": 30.5,
+  "gpu_section": 561.5,
+  "wall_total_minus_lock": 565.8
+ },
+ "rtf_wall_vs_final_audio": 1.078
+}

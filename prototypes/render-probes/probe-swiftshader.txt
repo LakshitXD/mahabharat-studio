@@ -1,0 +1,8 @@
+full {"changedMs":"1065","unchangedMs":"629"}
+hold {"changedMs":"965","unchangedMs":"526"}
+envonly {"changedMs":"705","unchangedMs":"592"}
+envhold {"changedMs":"678","unchangedMs":"590"}
+nopaper {"changedMs":"927","unchangedMs":"451"}
+noblur {"changedMs":"952","unchangedMs":"476"}
+noblend {"changedMs":"656","unchangedMs":"299"}
+nopaperhold {"changedMs":"838","unchangedMs":"447"}
