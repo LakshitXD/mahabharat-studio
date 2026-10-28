@@ -1,2 +1,7 @@
 research/style-scan/board.html
 research/style-scan/img/
+lookdev/node_modules/
+lookdev/ref/
+lookdev/out/*.mp4
+lookdev/out/compare/
+lookdev/out/cmp-*
