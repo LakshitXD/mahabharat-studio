@@ -5,3 +5,4 @@ lookdev/ref/
 lookdev/out/*.mp4
 lookdev/out/compare/
 lookdev/out/cmp-*
+lookdev/out/**/*.mp4

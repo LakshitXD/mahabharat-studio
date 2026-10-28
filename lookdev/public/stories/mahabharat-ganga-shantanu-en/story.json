@@ -1,0 +1,368 @@
+{
+  "id": "mahabharat-ganga-shantanu-en",
+  "title": "Ganga's Condition",
+  "series": "mahabharat",
+  "kind": "tale",
+  "narrator": "baritone",
+  "beats": [
+    {
+      "id": "b001",
+      "text": "Long ago, when devtas and danavs still crossed paths with men, King Shantanu of Hastinapur married a woman he knew nothing about. Not her name. Not her home.",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          }
+        ],
+        "props": []
+      },
+      "pause_after": 0.4
+    },
+    {
+      "id": "b002",
+      "text": "One day, chasing deer along the river Ganga, the king came to its bank.",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "move": "pan-right"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": -0.08,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "walk",
+            "expr": "neutral",
+            "toX": 0.32,
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b003",
+      "text": "There, on the shore, stood a woman so radiant, it was as if the river's light had taken a body.",
+      "emotion": "surprise",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.68,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b004",
+      "text": "Shantanu could not look away. He stepped closer, and said,",
+      "emotion": "surprise",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.32,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "surprised",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b005",
+      "text": "Who are you? A devi? A daughter of the danavs? Or a woman of this earth? I am Shantanu of the Kuru line. Be my queen.",
+      "emotion": "happy",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.32,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "offer",
+            "expr": "smile",
+            "key": "shantanu",
+            "speaks": true
+          }
+        ],
+        "props": []
+      },
+      "voice": "kathavachak",
+      "speaker": "shantanu",
+      "delivery": "a smitten king, gentle and earnest"
+    },
+    {
+      "id": "b006",
+      "text": "The woman smiled. Then she set a single condition.",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.3,
+          "x": 0.5,
+          "y": 0.55,
+          "move": "hold"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "talk",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "pause_after": 0.4
+    },
+    {
+      "id": "b007",
+      "text": "I will be your queen, Rajan. But whatever I do, good or bad, you will never stop me.",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.68,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "neutral",
+            "pose": "talk",
+            "key": "ganga",
+            "speaks": true
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "voice": "deep-female",
+      "speaker": "ganga",
+      "delivery": "a serene divine woman, calm and grave"
+    },
+    {
+      "id": "b008",
+      "text": "And you will never speak a harsh word to me. The day you do, I will leave you.",
+      "emotion": "neutral",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.6,
+          "x": 0.68,
+          "y": 0.52,
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "thinking",
+            "pose": "point",
+            "key": "ganga",
+            "speaks": true
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "voice": "deep-female",
+      "speaker": "ganga",
+      "delivery": "a serene divine woman, quietly warning"
+    },
+    {
+      "id": "b009",
+      "text": "Shantanu was lost in love. He gave his word, without a moment's thought.",
+      "emotion": "happy",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "zoom": 1.3,
+          "x": 0.5,
+          "y": 0.55,
+          "move": "hold"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "smile",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "bow",
+            "expr": "smile",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      }
+    },
+    {
+      "id": "b010",
+      "text": "He did not know that this promise would one day ask everything of him. And from it, by the will of Ishwar, would begin the story of Bhishma.",
+      "emotion": "fear",
+      "scene": "bank",
+      "shot": {
+        "env": "ganga-tat",
+        "mood": "day",
+        "camera": {
+          "move": "push-in"
+        },
+        "actors": [
+          {
+            "char": "ganga",
+            "x": 0.68,
+            "facing": "left",
+            "expr": "sad",
+            "pose": "stand",
+            "key": "ganga"
+          },
+          {
+            "char": "shantanu",
+            "x": 0.32,
+            "facing": "right",
+            "variant": "plain",
+            "pose": "stand",
+            "expr": "neutral",
+            "key": "shantanu"
+          }
+        ],
+        "props": []
+      },
+      "pause_after": 0.6
+    }
+  ],
+  "lang": "en"
+}
